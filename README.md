@@ -28,7 +28,7 @@ reverse complement, and three melting-temperature (Tm) estimates.
 Clone or copy the file into a directory of your choice:
 
 ```bash
-git clone <your-repo-url> primer-analizer
+git clone https://github.com/nicoaira/primer-analizer.git
 cd primer-analizer
 ```
 
